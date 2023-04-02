@@ -1,2 +1,2 @@
-# Meta-Backend
-Meta Back-End Developer program offered by Coursera
+# Course syllabus for Introduction to Back-End Development
+- This course is the first of a series that aims to help you learn more about web development. Back-end developers must have a proficient understanding of the needs of front-end technologies, so through this first course, you will gain an understanding of the inner workings of the internet and webservers, as well as HTML, CSS and Javascript. You will then use this knowledge to create your own biographical page that harnesses the power of the Bootstrap CSS framework. By the end of this course, you’ll be able to:   
