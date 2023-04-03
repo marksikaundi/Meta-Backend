@@ -7,3 +7,11 @@
 > Distinguish between front-end, back-end, and full-stack developers
 > Explain how data moves through the internet
 > Describe the technologies that underpin the internet
+
+### Learning Outcomes
+- How the internet works
+- What is web server and how does it work
+- What are websites and Webpages?
+- Web Hosting
+- Knowledge checks - How the Web works
+*QUIZES AND ADDITIONAL MATERIALS REMAINING*
