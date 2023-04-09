@@ -1,21 +1,23 @@
 body {
-    background-color: lightblue;
-  }
-  
-  h1 {
-    color: navy;
-    margin-left: 20px;
-    text-align: center;
-  }
+  background-color: lightblue;
+}
 
-  p{
-    text-align: center;
-  }
+h1 {
+  color: navy;
+  margin-left: 20px;
+  text-align: center;
+}
 
-  h3 {
-    left: 20px;
-  }
+p {
+  text-align: center;
+}
 
-
-
-
+h3 {
+  left: 20px;
+}
+/* Table */
+table,
+th,
+td {
+  border: 1px solid black;
+}
