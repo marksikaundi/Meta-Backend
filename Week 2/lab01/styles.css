@@ -1,0 +1,17 @@
+#photo {
+    border: 2px;
+    width: 2px;
+    color: solid blue;
+}
+
+h1 {
+    color: blue;
+}
+
+h2 {
+    color: grey;
+}
+
+div {
+    margin: 4px;
+}

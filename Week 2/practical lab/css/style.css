@@ -21,3 +21,19 @@ th,
 td {
   border: 1px solid black;
 }
+
+#readmore {
+  color: white;
+}
+
+#name {
+  color: red;
+}
+
+#version {
+  color: red;
+}
+
+#price {
+  color: red;
+}
